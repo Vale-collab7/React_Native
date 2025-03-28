@@ -75,7 +75,7 @@ export const RegisterScreen = () => {
         </View>
         <View style={styles.formInput}>
           <Image style={styles.formIcon}
-            source={require('../../../assets/confirm_password.png')}
+            source={require('../../../assets/img/confirm_password.png')}
           />
           <TextInput
             style={styles.formTextInput}
